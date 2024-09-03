@@ -1,0 +1,47 @@
+body {
+
+color: rgb(17, 216, 116);
+background-color: rgb(49, 48, 47);
+font-family: Arial, Helvetica, sans-serif;
+align-items:center;
+text-align: center;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    color: rgb(241, 243, 248);
+}
+
+
+p {
+    color: rgb(223, 226, 226);
+    height: 50px;
+}
+
+a {
+    color: rgb(123, 226, 149);
+    text-decoration: none;
+    align-items: center;
+    height: 50px;
+    width: 100px;
+}
+
+img {
+ width: 420px;
+ height: 300px;
+ display:block;
+ margin-right:auto;
+ margin-left: auto;
+ align-items: center;
+ border: 3px solid rgb(166, 175, 166);
+ 
+}
+
+.imagem {
+    text-align: center;
+}
+
